@@ -8,7 +8,7 @@ sudo chmod +x install.sh
 ```
 To usage: 
 ```sh
-./install
+./install.sh
 ```
 
 ## General Packages
