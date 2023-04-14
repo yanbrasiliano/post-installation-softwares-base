@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 
 # Update and upgrade system
-sudo apt-get update
-sudo apt-get upgrade -y
+sudo apt update
+sudo apt upgrade -y
 
 # Install Git
 sudo apt install git -y
@@ -69,8 +69,8 @@ sudo snap install discord
 
 # Install Anki
 sudo apt-add-repository universe -y
-sudo apt-get update
-sudo apt-get install -y anki
+sudo apt update
+sudo apt install -y anki
 
 # Install qBittorrent
 sudo add-apt-repository -y ppa:qbittorrent-team/qbittorrent-stable
