@@ -1,15 +1,15 @@
 ## Post installation Softwares Ubuntu/Debian Based Distributions
 This script aims to optimize the post installation of the Ubuntu system for the software I use most in my daily life.
 
-This is a list of the software and packages installed on a Linux system using the following script:
-
+Permission: 
 ```sh
 sudo chmod +x install.sh
 ```
-To usage: 
+Usage: 
 ```sh
 ./install.sh
 ```
+This is a list of the software and packages installed on a Linux system using the following script:
 
 ## General Packages
 - wget;
