@@ -17,7 +17,8 @@ This is a list of the software and packages installed on a Linux system using th
 - htop;
 - vim;
 - tree;
-- vlc.
+- vlc;
+- tweaks.
 
 ## Development Tools
 - Git;
@@ -27,7 +28,9 @@ This is a list of the software and packages installed on a Linux system using th
 - Docker;
 - Docker Compose;
 - Oh My ZSH and your plugins: zsh-autosuggestions,zsh-syntax-highlighting and zsh-completions;
-- Dbeaver.
+- Dbeaver;
+- Sublime Text;
+- Support Flatpak packages.
 
 ### Music, Social Network, Anki and Torrent Client.
 - Spotify;
@@ -35,4 +38,12 @@ This is a list of the software and packages installed on a Linux system using th
 - Teams;
 - Discord;
 - Anki;
-- QbitTorrent.
+- QbitTorrent;
+- Google Chrome;
+- Brave Browser;
+- Steam;
+- Haruna.
+
+### And remove: 
+- Firefox Snap
+- Thunderbird(if exists)
