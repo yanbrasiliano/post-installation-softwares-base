@@ -18,7 +18,8 @@ This is a list of the software and packages installed on a Linux system using th
 - vim;
 - tree;
 - vlc;
-- tweaks.
+- tweaks;
+- lightdm-gtk settings.
 
 ## Development Tools
 - Git;
